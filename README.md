@@ -51,10 +51,29 @@ Work comfort is another factor that determines the performance of staff and this
 
 ## Folder Structure :point_down:
 ```bash
-
-     ├── .idea
-
-     └── rootwallpaper.jpg 
+JDBC-STUDENT-RECORD-SYSTEM
+     ├── .settings
+     |       └── org.eclipse.jdt.core.prefs
+     ├── bin
+     |     ├── com/student/manage
+     |     |         ├── ConnectionMethods.class
+     |     |         ├── ConnectionProvider.class
+     |     |         └── Student.class
+     |     ├── start.class
+     |     └── menu.class 
+     ├── src
+     |     ├── com/student/manage
+     |     |         ├── ConnectionMethods.class
+     |     |         ├── ConnectionMethods.java
+     |     |         ├── ConnectionProvider.java
+     |     |         ├── ConnectionProvider.class
+     |     |         ├── Student.java
+     |     |         └── Student.class
+     |     ├── start.class
+     |     ├── start.java
+     |     └── menu.class 
+     ├── .classpath
+     └── .project
 ```                       
 
 ## Making :point_down:
