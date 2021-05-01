@@ -47,7 +47,7 @@
 <a href="jdbc9.PNG"><img src="jdbc9.PNG" width="400" height= "280"></a> <a href="jdbc10.PNG"><img src="jdbc10.PNG" width="400" height= "280"></a>
 
 
-<a href="sql1.PNG"><img src="sql1.PNG" width="250" height= "600"></a> <a href="sql2.PNG"><img src="sql2.PNG" width="250" height= "600"></a>
+<a href="sql1.PNG"><img src="sql1.PNG" width="300" height= "600"></a> <a href="sql2.PNG"><img src="sql2.PNG" width="300" height= "600"></a>
 </div>
 
 
