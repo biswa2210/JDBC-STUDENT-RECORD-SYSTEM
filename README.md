@@ -36,21 +36,18 @@
 
 ## Screenshots :point_down: 
 <div align="center">
-<a href="at1.jpeg"><img src="at1.jpeg" width="400" height= "280"></a> <a href="at2.jpeg"><img src="at2.jpeg" width="400" height= "280"></a>
+<a href="jdbc1.PNG"><img src="jdbc1.PNG" width="400" height= "280"></a> <a href="jdbc2.PNG"><img src="jdbc2.PNG" width="400" height= "280"></a>
 
-<a href="at3.jpeg"><img src="at3.jpeg" width="400" height= "280"></a> <a href="at4.jpeg"><img src="at4.jpeg" width="400" height= "280"></a>
+<a href="jdbc3.PNG"><img src="jdbc3.PNG" width="400" height= "280"></a> <a href="jdbc4.PNG"><img src="jdbc4.PNG" width="400" height= "280"></a>
 
-<a href="at5.jpeg"><img src="at5.jpeg" width="400" height= "280"></a> <a href="at6.jpeg"><img src="at6.jpeg" width="400" height= "280"></a>
+<a href="jdbc5.PNG"><img src="jdbc5.PNG" width="400" height= "280"></a> <a href="jdbc6.PNG"><img src="jdbc6.PNG" width="400" height= "280"></a>
 
-<a href="at7.jpeg"><img src="at7.jpeg" width="400" height= "280"></a> <a href="at8.jpeg"><img src="at8.jpeg" width="400" height= "280"></a>
+<a href="jdbc7.PNG"><img src="jdbc7.PNG" width="400" height= "280"></a> <a href="jdbc8.PNG"><img src="jdbc8.PNG" width="400" height= "280"></a>
 
-<a href="at9.jpeg"><img src="at9.jpeg" width="400" height= "280"></a> <a href="at10.jpeg"><img src="at10.jpeg" width="400" height= "280"></a>
+<a href="jdbc9.PNG"><img src="jdbc9.PNG" width="400" height= "280"></a> <a href="jdbc10.PNG"><img src="jdbc10.PNG" width="400" height= "280"></a>
 
-<a href="at11.jpeg"><img src="at11.jpeg" width="400" height= "280"></a> <a href="at12.jpeg"><img src="at12.jpeg" width="400" height= "280"></a>
 
-<a href="at13.jpeg"><img src="at13.jpeg" width="400" height= "280"></a> <a href="at14.jpeg"><img src="at14.jpeg" width="400" height= "280"></a>
-
-<a href="at15.jpeg"><img src="at15.jpeg" width="400" height= "280"></a>
+<a href="sql1.PNG"><img src="sql1.PNG" width="250" height= "600"></a> <a href="sql2.PNG"><img src="sql2.PNG" width="250" height= "600"></a>
 </div>
 
 
