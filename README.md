@@ -15,7 +15,9 @@ A student information system (SIS), student management system, school administra
 
 ## Purpose :point_down:
 The purpose of this project is to create student database using Java Database Connectivity concept. Here we should able to operate the database using both Java and SQL. We have to retrieve records. We have to delete records according to our need. We have to be able to search a student’s record using specific idea. This makes an efficient Student Record System.
+
 ## Use :point_down:
+User has to run the project after opening it in eclipse or idea intellij. Then he has to see the menu. Accordingly he can choose options for specific tasks like adding records, deleting, searching or view records. These types of tasks can be done easily. Wrong credentials will note be taken. If same type of record for some specific cases is given then the program will not work for that. After using user can exit the program. From SQL environment also database can be accessed. This program is made with just real world idea. It is simple and efficient.
 
 ## Applications :point_down:
 1. Improves the General Performance Of Students
