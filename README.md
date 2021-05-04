@@ -115,15 +115,25 @@ Considered the level of knowledge possessed by the user of this system, a simple
 
 ## Screenshots :point_down: 
 <div align="center">
-<a href="jdbc1.PNG"><img src="jdbc1.PNG" width="400" height= "280"></a> <a href="jdbc2.PNG"><img src="jdbc2.PNG" width="400" height= "280"></a>
+<a href="jdbc1.PNG"><img src="jdbc1.PNG" width="800" height= "280"></a> 
+     
+<a href="jdbc2.PNG"><img src="jdbc2.PNG" width="800" height= "280"></a>
 
-<a href="jdbc3.PNG"><img src="jdbc3.PNG" width="400" height= "280"></a> <a href="jdbc4.PNG"><img src="jdbc4.PNG" width="400" height= "280"></a>
+<a href="jdbc3.PNG"><img src="jdbc3.PNG" width="800" height= "280"></a> 
 
-<a href="jdbc5.PNG"><img src="jdbc5.PNG" width="400" height= "280"></a> <a href="jdbc6.PNG"><img src="jdbc6.PNG" width="400" height= "280"></a>
+<a href="jdbc4.PNG"><img src="jdbc4.PNG" width="800" height= "280"></a>
 
-<a href="jdbc7.PNG"><img src="jdbc7.PNG" width="400" height= "280"></a> <a href="jdbc8.PNG"><img src="jdbc8.PNG" width="400" height= "280"></a>
+<a href="jdbc5.PNG"><img src="jdbc5.PNG" width="800" height= "280"></a> 
 
-<a href="jdbc9.PNG"><img src="jdbc9.PNG" width="400" height= "280"></a> <a href="jdbc10.PNG"><img src="jdbc10.PNG" width="400" height= "280"></a>
+<a href="jdbc6.PNG"><img src="jdbc6.PNG" width="800" height= "280"></a>
+
+<a href="jdbc7.PNG"><img src="jdbc7.PNG" width="800" height= "280"></a> 
+
+<a href="jdbc8.PNG"><img src="jdbc8.PNG" width="800" height= "280"></a>
+
+<a href="jdbc9.PNG"><img src="jdbc9.PNG" width="800" height= "280"></a> 
+
+<a href="jdbc10.PNG"><img src="jdbc10.PNG" width="800" height= "280"></a>
 
 <a href="sql1.PNG"><img src="sql1.PNG" width="400" height= "600"></a> <a href="sql2.PNG"><img src="sql2.PNG" width="400" height= "600"></a>
 </div>
