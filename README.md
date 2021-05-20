@@ -1,8 +1,9 @@
-# JDBC-STUDENT-RECORD-SYSTEM :star_struck:
-
+# JDBC-STUDENT-RECORD-SYSTEM :star_struck: :boy: :girl: :notebook: :open_file_folder: :computer:
+ 
 [![Generic badge](https://img.shields.io/badge/database-management%20system-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/java%20-programming-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/idea-intellij-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/sql-8.0-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/JDK-version%2016-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/mysql%20connector%20jar-external%20library-critical)](https://shields.io/)
 <br>
-***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+
+***This 'Student Record System' using JDBC is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
@@ -10,16 +11,29 @@
 
 [![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
 
-## About :point_down: 
-A student information system (SIS), student management system, school administration software or student administration system is a management information system for education establishments used to manage student data. Student information systems provide capabilities for registering students in courses; documenting grading, transcripts of academic achievement and co-curricular activities, and the results of student assessment scores; forming student schedules; tracking student attendance; and managing other student-related data needs in an educational institution. Information security is a concern, as universities house an array of sensitive personal information, making them potentially attractive targets for security breaches, such as those experienced by retail corporations or healthcare providers. Student management system is an environment where all the process of the student in the institution is managed. It is done through the automated computerized method. Conventionally this system is done using papers, file and binders. This system saves the time of the student and of the administrator. It includes process like registration of the student’s details, assigning the department based on their course and maintenance of the record. This system reduces the cost and workforce required for this job. As the system is online the information is globally present to everyone. This makes the system easy to handle and feasible for finding the omission with updating at the same time. As for the existing system, they use to maintain their record manually which makes it vulnerable to security. If filed a query to search or update in a manual system, it will take a lot of time to process the query and make a report which is a tedious job. As the system used in the institute is outdated as it requires paper, files and the binders, which will require the human workforce to maintain them. To get registered in the institute, a student in this system one should come to the university. Get the forms from the counter while standing in the queue which consumes a lot of the student’s time as well as of management team. As the number of the student increases in the institute manually managing the strength becomes a hectic job for the administrator. This computerized system store all the data in the database which makes it easy to fetch and update whenever needed. We have come with this project with JDBC. We have made a connection to a database, created SQL statements, executed SQL queries in the database, viewed and modified the resulting records. JDBC stands for Java Database Connectivity. JDBC is a Java API to connect and execute the query with the database. It is a part of JavaSE (Java Standard Edition). JDBC API uses JDBC drivers to connect with the database. Before JDBC, ODBC API was the database API to connect and execute the query with the database. But, ODBC API uses ODBC driver which is written in C language (i.e. platform dependent and unsecured). That is why Java has defined its own API (JDBC API) that uses JDBC drivers (written in Java language). Here in java environment, we can add, delete, fetch records. Here in SQL environment, we can also see records as table. We can fetch data very efficiently using this concept for deployment of this project.
+## About :point_down:
+
+<div align="justified">
+     
+A student information system (SIS), student management system, school administration software or student administration system is a management information system for education establishments used to manage student data. Student information systems provide capabilities for registering students in courses; documenting grading, transcripts of academic achievement and co-curricular activities, and the results of student assessment scores; forming student schedules; tracking student attendance; and managing other student-related data needs in an educational institution. Information security is a concern, as universities house an array of sensitive personal information, making them potentially attractive targets for security breaches, such as those experienced by retail corporations or healthcare providers. Student management system is an environment where all the process of the student in the institution is managed. It is done through the automated computerized method. Conventionally this system is done using papers, file and binders. This system saves the time of the student and of the administrator. It includes process like registration of the student’s details, assigning the department based on their course and maintenance of the record. This system reduces the cost and workforce required for this job. As the system is online the information is globally present to everyone. This makes the system easy to handle and feasible for finding the omission with updating at the same time. As for the existing system, they use to maintain their record manually which makes it vulnerable to security. If filed a query to search or update in a manual system, it will take a lot of time to process the query and make a report which is a tedious job. As the system used in the institute is outdated as it requires paper, files and the binders, which will require the human workforce to maintain them. To get registered in the institute, a student in this system one should come to the university. Get the forms from the counter while standing in the queue which consumes a lot of the student’s time as well as of management team. As the number of the student increases in the institute manually managing the strength becomes a hectic job for the administrator. This computerized system store all the data in the database which makes it easy to fetch and update whenever needed. We have come with this project with JDBC. We have made a connection to a database, created SQL statements, executed SQL queries in the database, viewed and modified the resulting records. JDBC stands for Java Database Connectivity. JDBC is a Java API to connect and execute the query with the database. It is a part of JavaSE (Java Standard Edition). JDBC API uses JDBC drivers to connect with the database. Before JDBC, ODBC API was the database API to connect and execute the query with the database. But, ODBC API uses ODBC driver which is written in C language (i.e. platform dependent and unsecured). That is why Java has defined its own API (JDBC API) that uses JDBC drivers (written in Java language). **Here in java environment, we can add, delete, fetch records. Here in SQL environment, we can also see records as table. We can fetch data very efficiently using this concept for deployment of this project.**
+</div>
 
 ## Purpose :point_down:
+
+<div align="justified">
+     
 The purpose of this project is to create student database using Java Database Connectivity concept. Here we should able to operate the database using both Java and SQL. We have to retrieve records. We have to delete records according to our need. We have to be able to search a student’s record using specific idea. This makes an efficient Student Record System.
+</div>
 
 ## Use :point_down:
+
+<div align="justified">
+     
 User has to run the project after opening it in eclipse or idea intellij. Then he has to see the menu. Accordingly he can choose options for specific tasks like adding records, deleting, searching or view records. These types of tasks can be done easily. Wrong credentials will note be taken. If same type of record for some specific cases is given then the program will not work for that. After using user can exit the program. From SQL environment also database can be accessed. This program is made with just real world idea. It is simple and efficient.
+</div>
 
 ## Applications :point_down:
+
 1. Improves the General Performance Of Students
 For students to come out with good grades, the focus is highly needed. With this school administration software, students are able to use their precious time for relevant things which is studying rather than keep track of their records to make sure things are intact. Moreover, fear of losing important records to manual management is completely off the line with the help of this software.
 2. It helps Simply and Streamlines All Task
@@ -42,6 +56,7 @@ There is more to life than the walls of the school. This same software has the a
 Work comfort is another factor that determines the performance of staff and this student management system have successfully put that in place. Teachers are able to manage their students in a smart way.
 
 ## Future Scopes :point_down:
+
 1.This student record system can be deployed in a online web portal for students and teachers.
 2. One can upgrade this web portal to store subject video lectures under different professor names and also maintain the previous year’s question papers in it.
 3.The portal can be used to take day to day attendance and automatically send an SMS to the students and their parent.
@@ -52,6 +67,7 @@ Work comfort is another factor that determines the performance of staff and this
 8. By using artificial intelligence the web portal may track the usage of Wi – Fi based on the students registered device.
 
 ## Folder Structure :point_down:
+
 ```bash
 JDBC-STUDENT-RECORD-SYSTEM
      ├── .settings
@@ -79,6 +95,9 @@ JDBC-STUDENT-RECORD-SYSTEM
 ```                       
 
 ## Making :point_down:
+
+<div align="justified">
+     
 FUNCTIONAL REQUIREMENTS:
 Requirement analysis is a software engineering technique that is composed of the various tasks that determine the needs or conditions that are to be met for a new or altered product, taking into consideration the possible conflicting requirements of the various users.
 Functional requirements are those requirements that are used to illustrate the internal working nature of the system, the description of the system, and explanation of each subsystem. It consists of what task the system should perform the process involved, which data should the system holds and the interfaces with the user. The functional requirement identified are:
@@ -86,7 +105,7 @@ a.	Adding Students:
 All the required students’ details containing their name, roll number, enrolment number, registration number, phone number, city are added when we choose option 1 in menu.
 b.	Displaying Whole Record:
 All the added records are stored in a database and are fetched and showed when we choose option 3 in menu.
-c.	Searching Particular Customer Information:
+c.	Searching Particular Student Information:
 We can choose option 4 when we want to search a particular student’s record. We have to give the enrolment number of that student to get that student’s details.
 d.	Deleting Records:
 When we want to delete a student’s record we have to choose option 2 and give that student’s id no. Then that record will be deleted.
@@ -114,6 +133,7 @@ e.	Ease of use:
 Considered the level of knowledge possessed by the user of this system, a simple but quality user interface should be developed to make it easy to understand and required less training. 
 
 ## Screenshots :point_down: 
+
 <div align="center">
 <a href="jdbc1.PNG"><img src="jdbc1.PNG" width="800" height= "280"></a> 
      
